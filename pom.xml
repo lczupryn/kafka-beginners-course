@@ -6,6 +6,7 @@
 
     <groupId>com.github.lczupryn</groupId>
     <artifactId>kafka-beginners-course</artifactId>
+    <packaging>pom</packaging>
     <version>1.0</version>
 
     <dependencies>
